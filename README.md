@@ -1,6 +1,7 @@
 # 熔断器
 
-##用法：
+## 用法：
+
 ```go
     cb := NewCircuitBreaker(Options{
 		Name:     "http",
