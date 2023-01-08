@@ -1,5 +1,7 @@
 # 熔断器
 
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1611986234155499520.svg)](https://www.murphysec.com/accept?code=fd11cf7ded39bd1da51afdd0ae7a913c&type=1&from=2&t=2)
+
 ## 用法：
 
 ```go
